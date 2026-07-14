@@ -87,7 +87,7 @@ public class ChangedConfig {
             fastAndCheapLatexBlocks = builder.define("fastAndCheapLatexBlocks", false);
             builder.comment("Specify the location of the transfur meter");
             transfurMeterPosition = builder.defineEnum("transfurMeterPosition", TransfurProgressOverlay.Position.BOTTOM_LEFT);
-            builder.comment("Disable this to test fix for black drip particles (https://github.com/LtxProgrammer/Changed-Minecraft-Mod/issues/1291)");
+            builder.comment("Disable this to test fix for black drip particles");
             renderDripParticlesWithNormal = builder.define("renderDripParticlesWithNormal", true);
             builder.comment("Should latex blocks and latex covered blocks drip latex");
             latexBlocksDrip = builder.define("latexBlocksDrip", true);
