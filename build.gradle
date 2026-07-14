@@ -244,11 +244,11 @@ jar {
     manifest {
         attributes([
                 "Specification-Title"     : "changed",
-                "Specification-Vendor"    : "LtxProgrammer",
+                "Specification-Vendor"    : "Sprinklekit",
                 "Specification-Version"   : "1", // We are version 1 of ourselves
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : project.jar.archiveVersion,
-                "Implementation-Vendor"   : "LtxProgrammer",
+                "Implementation-Vendor"   : "Sprinklekit",
                 "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }
