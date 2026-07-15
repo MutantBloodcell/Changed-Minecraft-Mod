@@ -1,7 +1,7 @@
 <p align="center">
     <img src="images/icon@400.png" alt="Mod Logo" width="200"><br><br>
     <a href="https://discord.com/invite/MpynqpRN6p" rel="Discord"><img src="/images/discord-custom_vector.svg"></a>
-    <a href="https://www.patreon.com/ltxprogrammer" rel="Discord"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/donate/patreon-singular_vector.svg"></a>
+    <a href="https://www.patreon.com/cw/Sprinklekit" rel="Discord"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/donate/patreon-singular_vector.svg"></a>
     <a href="https://modrinth.com/mod/changed-minecraft-mod" rel="Discord"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/available/modrinth_vector.svg"></a>
     <a href="https://www.curseforge.com/minecraft/mc-mods/changed-minecraft-mod" rel="Discord"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/available/curseforge_vector.svg"></a>
 </p>
@@ -28,10 +28,6 @@ We strive to keep the code and assets of the Changed: Minecraft Mod at a excelle
 - Issues should be written clearly in English
 
 Submitting content that fails to meet quality expectations isn't an issue, and can be a good learning experience on what can be improved. However, excessively submitting issues/pull requests that repeatedly fail to meet quality expectations will result in a warning, and then a ban from contributing.
-
-## How can I make my own extension mod?
-
-Please refer to the [wiki](https://github.com/LtxProgrammer/Changed-Minecraft-Mod/wiki) for tutorials on setting up, and using the API.
 
 ## How can I compile the mod?
 
