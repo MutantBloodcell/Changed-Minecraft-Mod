@@ -10,8 +10,8 @@ displayName="Changed"
 updateJSONURL="https://ltxprogrammer.github.io/changed-minecraft-mod.json"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/changed-minecraft-mod"
 logoFile="icon@400.png"
-credits='''DragonSnow, bijimio, Valurio9683, KoBOLTA, poptartiguess, N1CO785, BaiTian6641, Foxyas, Kedr2806, xxXMinionXxx, Sel7D4, Candnhen, ABTOR, Twix#5803, dahotdogdesant, gootraxian, Sprinklekit'''
-authors="Sprinklekit"
+credits='''DragonSnow, bijimio, Valurio9683, KoBOLTA, poptartiguess, N1CO785, BaiTian6641, Foxyas, Kedr2806, xxXMinionXxx, Sel7D4, Candnhen, ABTOR, Twix#5803, dahotdogdesant, gootraxian, Mutant Bloodcell'''
+authors="Mutant Bloodcell"
 description='''Gooey transfur mod inspired by DragonSnow's Changed.'''
 [[dependencies.changed]]
     modId="forge"
