@@ -8,7 +8,7 @@
 
 ---
 
-This repository holds the source code for the **Changed: Minecraft Mod**. Releases are compiled and published to both Modrinth and Curseforge. Credits for contributors are available on [GitHub Insights](https://github.com/LtxProgrammer/Changed-Minecraft-Mod/graphs/contributors) and in the mod menu.
+This repository holds the source code for the **Changed: Minecraft Mod**. Releases are compiled and published to both Modrinth and Curseforge. Credits for contributors are available on [GitHub Insights](https://github.com/MutantBloodcell/Changed-Minecraft-Mod/graphs/contributors) and in the mod menu.
 
 ## How can I help?
 Any aspiring developer is welcome to fork and create a pull request to submit their content. Programmers, texture artists, and 3D modelers all have a place here.
@@ -32,7 +32,7 @@ Submitting content that fails to meet quality expectations isn't an issue, and c
 ## How can I compile the mod?
 
 Without a IDE and assuming you have `git` installed and Java 17 as your default java:
-- Clone the repo `git clone https://github.com/LtxProgrammer/Changed-Minecraft-Mod.git`
+- Clone the repo `git clone https://github.com/MutantBloodcell/Changed-Minecraft-Mod.git`
 - Navigate into the directory `cd Changed-Minecraft-Mod`
 - Run Gradlew `./gradlew build` (Linux/MacOS) or `gradlew build` (Windows)
 - Once completed, check builds/libs for the results.
